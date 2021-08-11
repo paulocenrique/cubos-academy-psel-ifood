@@ -11,10 +11,3 @@ function solucao(dados) {
         console.log ("OK");
     }
 }
-
-solucao({
-    "mascara":true,
-    "gritando":false,
-    "vacinada":true,
-    "negativoPCR":false, 
-})
