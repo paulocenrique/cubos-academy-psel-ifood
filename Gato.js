@@ -6,4 +6,3 @@ function solucao(idadeLimite, idadeAtleta) {
     }
 }
 
-solucao(4,3);
